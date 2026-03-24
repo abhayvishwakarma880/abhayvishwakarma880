@@ -1,29 +1,103 @@
-Hi there 👋, I'm Abhay Vishwakarma
+# 👋 Hi, I'm Abhay Vishwakarma
 
-🚀 Associate Software Developer | MERN Stack Developer
+🚀 **Associate Software Developer | MERN Stack Developer**
+💼 Currently working at **Code Crafter Web Solution**
 
-I am a passionate developer with hands-on experience in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I love working on real-world projects and continuously learning new technologies to improve my skills.
+---
 
-💼 Currently working on multiple projects and gaining practical industry experience.
+## 🔥 About Me
 
-🧠 What I do:
-- Build full-stack web applications
-- Design REST APIs and backend systems
-- Work with databases and optimize queries
-- Learn and explore new technologies
+I am a passionate and performance-driven developer with hands-on experience in building scalable and real-world applications. I specialize in backend development and API architecture while also crafting clean and responsive frontend interfaces.
 
-🔥 Tech Stack:
-- Frontend: React.js, JavaScript, HTML, CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Tools: Git, GitHub, Postman
+💡 I have worked on multiple production-level projects and can efficiently handle complex systems, deadlines, and team collaboration.
 
-📌 Current Focus:
-- Improving system design skills
-- Working on scalable backend architecture
-- Exploring new tools and frameworks
+---
 
-📫 Connect with me:
-- LinkedIn: (your link here)
+## ⚡ Professional Highlights
 
-⚡ Fun fact: I love solving real-world problems through code and always try to deliver efficient solutions.
+* 💼 6 Months Internship + 1 Year Experience
+* 🔥 Strong in Backend Development & API Architecture
+* 🚀 Worked on large-scale projects like **DSS CRM**
+* 🤝 Team Player with ability to handle multiple projects
+* 🧠 Quick learner & always exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend
+
+* Node.js
+* Express.js
+* Django (previous experience)
+
+### 🎨 Frontend
+
+* React.js
+* HTML, CSS, JavaScript
+
+### 🗄️ Database
+
+* MongoDB
+
+### 📱 Other Skills
+
+* Flutter
+* REST API Development & Integration
+* Database Design & Optimization
+* System Handling & Debugging
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CodersAdda
+
+A complete educational platform with courses, jobs, ebooks, quizzes, and user progress tracking system.
+
+### 🔹 DSS CRM (Current Project)
+
+A large-scale CRM system with complex modules, role management, and real-world business logic.
+
+### 🔹 Other Real Projects
+
+* Grievance Redressal System
+* Job Portal
+* Survey App
+* Society Management System
+* Multiple Client-Based Applications
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Current Focus
+
+* System Design & Scalable Architecture
+* Advanced Backend Optimization
+* Building Production-Level Applications
+
+---
+
+## 🎯 Career Goal
+
+To become a highly skilled Software Engineer who builds scalable systems, contributes to impactful products, and eventually creates innovative tech solutions at scale.
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: YOUR_LINK_HERE
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just write code — I solve real-world problems and build systems that scale 🚀
